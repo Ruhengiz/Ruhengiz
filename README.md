@@ -18,17 +18,7 @@
 **🛠️ Tools & Technologies**  
 ### 👩‍💻 Currently working with:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-![Dataiku](https://img.shields.io/badge/Dataiku-00B9AD?style=flat&logo=dataiku&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![SQLDeveloper](https://img.shields.io/badge/SQLDeveloper-336791?style=flat&logo=oracle&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat&logo=scikitlearn&logoColor=white)  
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-007ACC?style=flat&logo=opencv&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat&logo=ibm&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-6F42C1?style=flat&logo=openai&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  ![Dataiku](https://img.shields.io/badge/Dataiku-00B9AD?style=flat&logo=dataiku&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![SQLDeveloper](https://img.shields.io/badge/SQLDeveloper-336791?style=flat&logo=oracle&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat&logo=scikitlearn&logoColor=white)  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-007ACC?style=flat&logo=opencv&logoColor=white)  ![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat&logo=ibm&logoColor=white)  ![LLM](https://img.shields.io/badge/LLM-6F42C1?style=flat&logo=openai&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
 
 ---
