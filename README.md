@@ -13,8 +13,6 @@
 
 ---
 
-### 👩‍💻 Currently working with:
-
 **🛠️ Tools & Technologies**  
 ### 👩‍💻 Currently working with:
 
